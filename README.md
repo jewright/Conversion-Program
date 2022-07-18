@@ -9,7 +9,7 @@ When you run this program, you will be asked the type of measurement conversion 
 Next you will be asked the unit you are converting from and the unit you want to convert to. After inputting the abbreviations for both, you can enter all of the values you want. The amount of values won't matter nor will the value. You can use positives, negatives, and decimals. 
 
 
-After you finish your input, you will receive an array of the values converted. 
+After you finish your input, you will receive an array of the values converted. I have made it so that the returned values round to 4 decimals for more accuracy.
 
 
 
