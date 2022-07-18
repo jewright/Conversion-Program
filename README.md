@@ -14,16 +14,16 @@ When you run this program, you will be asked the type of measurement conversion 
 <img width="388" alt="Screen Shot 2022-07-16 at 8 22 47 PM" src="https://user-images.githubusercontent.com/98404383/179516166-33049513-dbf4-48ed-b115-4c86e18bc453.png">
 </p>
 
-Next you will be asked the unit you are converting from and the unit you want to convert to. After inputting the abbreviations for both, you can enter all of the values you want. The amount of values won't matter nor will the number value (you can use positives, negatives, and decimals). If you change your mind about the measurement type, you can enter 0 to go back to the beginning. 
+Next, you will choose the unit you are converting from and to. After inputting abbreviations for both, you can enter all the values you want. Additionally, you can use numbers of any value  (positives, negatives, and decimals). If you change your mind about the measurement type, you can enter 0 to return to the beginning.
 
-**Make sure your input is seperated by spaces.** 
+**Your input must be separated by spaces.** 
 <p align="center">
 <img width="731" alt="Screen Shot 2022-07-18 at 10 19 11 AM" src="https://user-images.githubusercontent.com/98404383/179532746-01929a60-acfa-4c80-a342-296530db3a42.png">
 </p>
-After you finish your input, you will receive an array of all the values converted. I have made it so that the returned values round to 4 decimals for more accuracy. 
+After you finish your input, you will receive an array of all the values converted and rounded to 4 decimals for more accuracy.
 
-Next you will be asked if you'd like make another conversion. Enter a "1" for yes or a "2" for no. If yes, you will go through the code again like you previously did. If you decide no, you will get a completion message. 
-
+Next, you will decide if you'd like to make another conversion. Enter a "1" for yes or a "2" for no. If yes, you will go through the code again like you previously did. If you decide no, you will get a completion message.
+ 
 <p align="center">
 <img width="413" alt="Screen Shot 2022-07-18 at 10 21 24 AM" src="https://user-images.githubusercontent.com/98404383/179536178-451bb94a-fc02-48dd-a117-7fab512124c1.png">
 <img width="413" alt="Screen Shot 2022-07-18 at 10 21 36 AM" src="https://user-images.githubusercontent.com/98404383/179536182-2380a003-0d2f-425b-b58b-15adaa9b3621.png">
