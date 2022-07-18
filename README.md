@@ -29,9 +29,6 @@ Next, you will decide if you'd like to make another conversion. Enter a "1" for 
 <img width="413" alt="Screen Shot 2022-07-18 at 10 21 36 AM" src="https://user-images.githubusercontent.com/98404383/179536182-2380a003-0d2f-425b-b58b-15adaa9b3621.png">
 </p>
 
-Side note: The import colorama is simply for appearance of the text color.
-
-
 ## Measurement Diagram
 <p align="center">Here is a diagram with all of the measurements and included units.
 </p>
