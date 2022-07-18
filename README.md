@@ -1,5 +1,5 @@
 # Conversion-Program
-This program allows you to convert between nine types of measurements and contains a total of sixty-two units. It has a total of over 3,000 lines of code.
+This python program allows you to convert between nine types of measurements and contains a total of sixty-two units. It has a total of over 3,000 lines of code.
 
 **[How to Use](https://github.com/jewright/Conversion-Program/edit/main/README.md#how-to-use)**
 
