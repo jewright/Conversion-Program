@@ -1,6 +1,12 @@
 # Conversion-Program
 This program allows you to convert between nine types of measurements and contains a total of sixty-two units. It has a total of over 3,000 lines of code.
 
+**[How to Use](https://github.com/jewright/Conversion-Program/edit/main/README.md#how-to-use)**
+
+**[Measurement Diagram](https://github.com/jewright/Conversion-Program/edit/main/README.md#measurement-diagram)**
+
+
+
 ## How To Use
 When you run this program, you will be asked the type of measurement conversion you would like to make. You can type in either the number or abbreviation. In this this tutorial, we'll use weight (enter a "w" or "1").
 
@@ -23,12 +29,13 @@ Next you will be asked if you'd like make another conversion. Enter a "1" for ye
 <img width="413" alt="Screen Shot 2022-07-18 at 10 21 36 AM" src="https://user-images.githubusercontent.com/98404383/179536182-2380a003-0d2f-425b-b58b-15adaa9b3621.png">
 </p>
 
-
-## Measurement Details
-Here is a diagram with all of the measurements and included units.
+## Measurement Diagram
+<p align="center">Here is a diagram with all of the measurements and included units.
+</p>
 
 <p align="center">
   <img width="735" alt="Screen Shot 2022-07-18 at 10 48 08 AM" src="https://user-images.githubusercontent.com/98404383/179538210-3c040767-4a9c-4d20-927b-2d4d9b2a8448.png">
 </p>
 
+[Conversion Program Diagram.pdf](https://github.com/jewright/Conversion-Program/files/9133017/Conversion.Program.Diagram.pdf)
 
