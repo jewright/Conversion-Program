@@ -3,7 +3,7 @@ This python program allows you to convert between nine types of measurements and
 
 **[How to Use](https://github.com/jewright/Conversion-Program#how-to-use)**
 
-**[Measurement Diagram](https://github.com/jewright/Conversion-Program#measurement-diagram)**
+**[Measurement Diagram](https://github.com/jewright/Conversion-Program#measurement-diagram:~:text=a%20completion%20message.-,Measurement%20Diagram,-Here%20is%20a)**
 
 
 
