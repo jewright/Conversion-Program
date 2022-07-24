@@ -1,12 +1,6 @@
 # Conversion-Program
 This python program allows you to convert between nine types of measurements and contains a total of sixty-two units. It has a total of over 3,000 lines of code.
 
-**[How to Use](https://github.com/jewright/Conversion-Program#measurement-diagram:~:text=Measurement%20Diagram-,How%20To%20Use,-When%20you%20run)**
-
-**[Measurement Diagram](https://github.com/jewright/Conversion-Program#measurement-diagram:~:text=a%20completion%20message.-,Measurement%20Diagram,-Here%20is%20a)**
-
-
-
 ## How To Use
 When you run this program, you will be asked the type of measurement conversion you would like to make. You can type in either the number or abbreviation. In this this tutorial, we'll use weight (enter a "w" or "1").
 
