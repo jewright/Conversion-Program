@@ -3049,7 +3049,6 @@ if __name__ == '__main__':
                 main()
             elif redo == '2' or redo == 'no':
                 print(Fore.YELLOW + "\n\033[1m Done!")
-                print(Fore.YELLOW + " Created by: Jordyn Wright\033[0m")
                 break
             else:
                 print(Fore.RED + " Please enter a value 1-2")
